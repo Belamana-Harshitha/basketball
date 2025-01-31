@@ -6,6 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color: #9AABD8;
 }
 .container {
     display: flex;
